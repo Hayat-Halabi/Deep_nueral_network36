@@ -233,3 +233,8 @@ Based on the results:
 2- The sample predictions show the model's ability to predict the likelihood of cyber attacks on new, unseen data.
 3- Further improvements can be made by tuning the model, using more complex architectures, or incorporating additional relevant features.
 4- This solution provides a foundational approach to analyzing cyber attacks on social media using deep learning. Real-world implementations might require more sophisticated models and preprocessing techniques.
+
+link to access CSV:
+
+https://drive.google.com/file/d/1AW10bFCZNmTh4OD6nwSOzpC4pRxASyUO/view?usp=drive_link
+
