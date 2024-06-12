@@ -102,7 +102,7 @@ Data preprocessing
 - TF-IDF, which stands for Term Frequency-Inverse Document Frequency, is a numerical technique used in natural language processing (NLP) to convert text data into numerical form.
 - It is particularly useful for representing the importance of words in a document within a larger corpus of documents.
 - TfidfVectorizer is used to create a TF-IDF representation of text data with a maximum of 100 features (terms) to capture the most significant information from the documents.
-```pyhon
+```python
 # Import the TfidfVectorizer from scikit-learn for text data preprocessing
 from sklearn.feature_extraction.text import TfidfVectorizer
 
